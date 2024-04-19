@@ -4,7 +4,7 @@ import { TasksInWork } from './components/tasks/tasks';
 import { IoArchiveOutline } from 'react-icons/io5';
 import { MdRestorePage } from "react-icons/md";
 import { InputTask } from './components/input-task/input-task';
-import './app.css'
+import './App.css'
 
 const dataArr = [{ id: 1, task: "test s;ldkvdvk; dzbdfkbmdfobmf dfbmdfobmfpogm", done: false },
 { id: 2, task: "test2", done: false },
